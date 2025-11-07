@@ -16,12 +16,13 @@ Yêu cầu:
 
 // nap – thông tin liên hệ doanh nghiệp
 NAP = {
-  name: "Nguyễn Tú cho thuê xe máy Hà Nội",
-  description: "Dịch vụ cho thuê xe máy uy tín tại Hoàn Kiếm, Hà Nội. Cung cấp xe ga, xe số, xe điện, giao tận nơi 20–40 phút, hỗ trợ 24/7, giá rẻ, chất lượng cao.",
+  name: "Cho thuê xe máy Hà Nội - Hữu Hào",
+  description: "Địa chỉ cho thuê xe máy uy tín tại Hoàn Kiếm, Phố Cổ, Long Biên (gần Bến xe Gia Lâm). Xe ga, xe số, xe điện; giao tận nơi 20–40 phút; hỗ trợ 24/7; thuê theo giờ, ngày, tuần, tháng; giá tốt, chất lượng.",
+  phone: "0354904601",
   phone: "0942467674",
+  zalo: "https://zalo.me/0354904601",
   whatsapp: "https://wa.me/84942467674",
-  zalo: "https://zalo.me/0942467674",
-  email: "thuexemaynguyentu@gmail.com",
+  email: "thuexemayhuuhao@gmail.com",
   website: "https://motoopen.github.io/thuexemayohoankiem/",
   address: "112 Nguyễn Văn Cừ, Long Biên, Hà Nội",
   map: "https://maps.app.goo.gl/SR1hcwnCQjPkAvDh7",
